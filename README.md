@@ -72,3 +72,14 @@ full component catalog, live demos, and API reference.
 ## License
 
 MIT
+
+## Contributing
+
+We welcome contributions to performative-ui! Here are some ways you can help:
+
+1. **Report Bugs**: If you encounter any issues, please open an issue on GitHub.
+2. **Suggest Features**: Have an idea for a new feature? Let us know by opening an issue.
+3. **Submit Pull Requests**: If you want to contribute code, feel free to fork the repository and submit a pull request. Please ensure your code follows the existing style and includes tests where applicable.
+4. **Improve Documentation**: Help us make the documentation better by suggesting edits or adding new content.
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
