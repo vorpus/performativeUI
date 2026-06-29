@@ -143,7 +143,7 @@ export function Popover({
   if (!target) return null;
 
   return createPortal(
-    <div className="pui-popover-overlay" role="dialog" aria-modal="true">
+    <div className="pui-popover-overlay" role="dialog" aria-modal="true" aria-labelledby="popover-title" aria-describedby="popover-description">
       <div
         className="pui-popover-backdrop"
         aria-hidden="true"
